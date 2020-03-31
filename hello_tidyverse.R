@@ -1,2 +1,2 @@
 library(tidyverse)
-tidyberse_logo()
+tidyverse::tidyberse_logo()
